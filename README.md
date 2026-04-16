@@ -131,7 +131,7 @@ Take your project to the next level with premium dashboards from [DashboardPack]
 
 ```bash
 # Clone the repository
-git clone https://github.com/puikinsh/Bootstrap-Admin-Template.git metis-admin
+git clone https://github.com/RK-NIMIWAL/TechBoard.git metis-admin
 cd metis-admin
 
 # Install dependencies
@@ -307,29 +307,6 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 ```
 
-## 🙏 Credits & Attribution
-
-### Core Technologies
-- **[Bootstrap 5](https://getbootstrap.com)** - The world's most popular CSS framework
-- **[Alpine.js](https://alpinejs.dev)** - Lightweight reactive framework
-- **[Vite](https://vitejs.dev)** - Next generation frontend tooling
-- **[Bootstrap Icons](https://icons.getbootstrap.com)** - Official Bootstrap icon library
-
-### Design Resources
-- **[Inter Font](https://rsms.me/inter/)** - Modern typeface designed for computer screens
-- **[Heroicons](https://heroicons.com)** - Additional beautiful hand-crafted SVG icons
-
-## 👥 About the Authors
-
-**[Colorlib](https://colorlib.com/)** - The most popular source for free WordPress themes and HTML templates.
-
-**[Aigars Silkalns](https://twitter.com/AigarsSilkalns)** - Project maintainer and founder of Colorlib.
-
-## 🔗 Related Projects
-
-- **[Free Bootstrap Admin Templates](https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/)**
-- **[Premium Admin Templates](https://colorlib.com/wp/html-admin-templates/)**
-- **[Free Website Templates](https://colorlib.com/wp/templates/)**
 
 ---
 
